@@ -42,6 +42,6 @@ After updating the ReadMe I then committed and pushed changes to GitHub.
 ```bash
 git add .
 git commit --m "Second Update to ReadMe"
-git push
+git push origin ryan
 ```
 
