@@ -45,3 +45,12 @@ git commit --m "Second Update to ReadMe"
 git push origin ryan
 ```
 
+To delete the branch locally I simply used:
+
+```bash
+git branch -d ryan
+```
+
+(You could probably delete before you push)
+
+I then deleted the new branch from GitHub
